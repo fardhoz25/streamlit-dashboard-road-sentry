@@ -36,9 +36,6 @@ The dashboard provides a complete end-to-end analytical workflow, covering Data 
 <p align="center">
   <img src="assets/screenshots/banner.png" width="100%" alt="Streamlit Banner"/>
 </p>
-
-<br/>
-
 <p align="center">
   <img src="assets/screenshots/screenshots.png" width="100%" alt="Streamlit Dashboard Screenshots"/>
 </p>
