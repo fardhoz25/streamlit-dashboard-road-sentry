@@ -1,5 +1,4 @@
-<div align="center">
-  
+
 # Streamlit Dashboard Road-Sentry
 
 ### Interactive Data Analytics Dashboard for Road Damage Dataset Analysis
